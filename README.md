@@ -4,7 +4,7 @@ This repository conatins scripts for performing camera calibration using chessbo
 
 <img src="calibration_images/image_10.png" width="500">
 
-<img src="screenshot2.png" width="500">
+<img src="calibration_images/image_2.png" width="500">
 
 
 
